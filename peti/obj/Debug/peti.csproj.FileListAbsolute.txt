@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\peti\bin\Debug\peti.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\peti\bin\Debug\peti.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\peti\obj\Debug\peti.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\peti\obj\Debug\peti.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\peti\obj\Debug\peti.pdb

@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\zadatak6i7\bin\Debug\zadatak6i7.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\zadatak6i7\bin\Debug\zadatak6i7.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\zadatak6i7\obj\Debug\zadatak6i7.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\zadatak6i7\obj\Debug\zadatak6i7.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\zadatak6i7\obj\Debug\zadatak6i7.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\cetvrti\obj\Debug\cetvrti.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\cetvrti\bin\Debug\cetvrti.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\cetvrti\bin\Debug\cetvrti.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\cetvrti\bin\Debug\prvi.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\cetvrti\bin\Debug\prvi.pdb
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\cetvrti\obj\Debug\cetvrti.dll
+C:\Users\Mario\Documents\Visual Studio 2017\Projects\zadaca2\cetvrti\obj\Debug\cetvrti.pdb
