@@ -1,0 +1,14 @@
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\drugiTests.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\drugiTests.pdb
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\drugi.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\drugi.pdb
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\obj\Debug\drugiTests.csprojResolveAssemblyReference.cache
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\obj\Debug\drugiTests.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\drugiTests\obj\Debug\drugiTests.pdb

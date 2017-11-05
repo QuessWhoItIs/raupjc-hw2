@@ -1,0 +1,5 @@
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\prvi\bin\Debug\prvi.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\prvi\bin\Debug\prvi.pdb
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\prvi\obj\Debug\prvi.csprojResolveAssemblyReference.cache
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\prvi\obj\Debug\prvi.dll
+c:\Users\Mario\documents\visual studio 2017\Projects\zadaca2\prvi\obj\Debug\prvi.pdb
